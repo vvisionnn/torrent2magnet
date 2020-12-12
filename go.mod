@@ -1,0 +1,1 @@
+module "torrent2magnet"
